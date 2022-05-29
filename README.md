@@ -1,4 +1,4 @@
-# ba_thesis
+# Bachelor Thesis
 
 ## This is the final version of my bachelor thesis 
 
