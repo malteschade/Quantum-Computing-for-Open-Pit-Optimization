@@ -1,7 +1,6 @@
 # Bachelor Thesis
-
-## This is the final version of my bachelor thesis 
-
+### Author:
+Malte Leander Schade
 ### Title:
 Quantum Computing for Open-Pit Optimization
 ### University:
