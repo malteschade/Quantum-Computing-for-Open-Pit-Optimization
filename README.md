@@ -17,5 +17,5 @@ Dr. Denise Degen, CGRE RWTH Aachen
 18.01.2022
 ### Submission:
 24.03.2022
-### Final Grade:
-1.0
+### Final Score:
+GER: 1.0 ; US LG: A+ 
